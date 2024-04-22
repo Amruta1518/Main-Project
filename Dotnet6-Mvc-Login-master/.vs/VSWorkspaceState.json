@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Dotnet6-Mvc-Login-master",
+    "\\Dotnet6-Mvc-Login-master\\Dotnet6MvcLogin",
+    "\\Dotnet6-Mvc-Login-master\\Dotnet6MvcLogin\\Repositories",
+    "\\Dotnet6-Mvc-Login-master\\Dotnet6MvcLogin\\Repositories\\Abstract",
+    "\\Dotnet6-Mvc-Login-master\\Dotnet6MvcLogin\\Repositories\\Implementation",
+    "\\Dotnet6-Mvc-Login-master\\Dotnet6MvcLogin\\Views",
+    "\\Dotnet6-Mvc-Login-master\\Dotnet6MvcLogin\\Views\\Admin",
+    "\\Dotnet6-Mvc-Login-master\\Dotnet6MvcLogin\\Views\\Dashboard",
+    "\\Dotnet6-Mvc-Login-master\\Dotnet6MvcLogin\\Views\\Home"
+  ],
+  "SelectedNode": "\\Dotnet6-Mvc-Login-master\\Dotnet6MvcLogin.sln",
+  "PreviewInSolutionExplorer": false
+}
